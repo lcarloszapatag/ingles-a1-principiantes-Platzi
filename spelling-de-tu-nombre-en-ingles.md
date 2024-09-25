@@ -27,3 +27,7 @@ listend and repeat
 - Z  /zend/
   
 ## My name is Sepelled
+
+Name: J-U-A-N D-I-E-G-O // /dʒeɪ/juːeɪ/ɛn//diː//aɪ//iː//dʒiː//oʊ/
+
+Last Name: S-A-S-T-R-E-M-O-R-E-N-O // /ɛs//eɪ//ɛs//tiː//ɑr//aɪ//ɛm//oʊ//ɑr//iː//ɛn//oʊ/

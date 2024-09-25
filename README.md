@@ -14,7 +14,7 @@ Aprende expresiones habituales en inglés y practica frases simples para present
 7. Usa "is" o "are" en descripciones
 8. Tu presentación personal en Inglés
 9. Describe personas usando "his", "her", "their"
-10. Usa "who" en preguntas y respuestas
+10. [Usa "who" en preguntas y respuestas](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/usa-who-en-preguntas-y-respuestas.md)
 11. Realiza descripciones usando "there is" y "there are
 12. Projecto del Curso:Preséntate en Inglés
 ## course project

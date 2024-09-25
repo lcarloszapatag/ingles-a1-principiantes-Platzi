@@ -3,7 +3,7 @@
 - Hi,i'm Juan.J-U-A-N
 - i'm 37 years old
 - i'm a video producer
-- My fovorite food is Pizza .And My favorite animal is Lion.
+- My favorite food is Pizza .And My favorite animal is Lion.
 
   ## it's Your turn!
   Answer the questions

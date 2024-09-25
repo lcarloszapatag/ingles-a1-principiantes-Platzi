@@ -9,3 +9,7 @@ Aprende expresiones habituales en inglés y practica frases simples para present
 5. Ocupaciones en Inglés: What's your job?
 6. Los días de la semana en Inglés: [Days of the Week](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/los-dias-de-la-semana-en-ingles.md)
 
+## course project
+
+A short video with the following questions
+

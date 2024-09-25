@@ -2,7 +2,7 @@
 ![Aprende expresiones  basicas en ingles y muestra tus habilidades en un video](https://pbs.twimg.com/card_img/1837869809448390656/xjEFSk5o?format=jpg&name=small)
 
 
-Aprende con la proferosa [Gina Pedraza](https://platzi.com/profes/gina-pedraza/) expresiones habituales en inglés y practica frases simples para presentarte y responder "What's your name?" al decir tu nombre y "How old are you?" para indicar tu edad. Usar el alfabeto en inglés para deletrear palabras, identifica números básicos y adquiere vocabulario sobre los días de la semana y objetos cotidianos.
+Aprende con la profesora [Gina Pedraza](https://platzi.com/profes/gina-pedraza/) expresiones habituales en inglés y practica frases simples para presentarte y responder "What's your name?" al decir tu nombre y "How old are you?" para indicar tu edad. Usar el alfabeto en inglés para deletrear palabras, identifica números básicos y adquiere vocabulario sobre los días de la semana y objetos cotidianos.
 
 ## Notes
 1. Inglés Básico para Principiantes

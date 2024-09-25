@@ -2,13 +2,13 @@
 
 - Start with the basics: Learn numbers 1-10 and the tens (twenty, thirty, forty, etc.).
 
--Combine: To form numbers like 15 (fifteen), simply combine the ten (ten) with the unit (five).
+- Combine: To form numbers like 15 (fifteen), simply combine the ten (ten) with the unit (five).
 
--Practice daily: You can count objects around you, sing songs, or use mobile apps to practice.
+- Practice daily: You can count objects around you, sing songs, or use mobile apps to practice.
 
--Listen and repeat: Listen to how numbers are pronounced in English and repeat them out loud.
+- Listen and repeat: Listen to how numbers are pronounced in English and repeat them out loud.
 
--Visualize: You can create flashcards with the numbers written and pronounced to help you memorize.
+- Visualize: You can create flashcards with the numbers written and pronounced to help you memorize.
 
 - Look for patterns: There are patterns in the formation of numbers that can help you remember them more easily.
 

@@ -24,5 +24,6 @@ listend and repeat
 - V /vi/
 - W /ˈdʌb(ə)l ju/
 - Y  /waɪ/
-  Y  /zend/
+- Z  /zend/
+  
 

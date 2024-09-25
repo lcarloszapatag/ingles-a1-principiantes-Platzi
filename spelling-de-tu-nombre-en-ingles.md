@@ -20,7 +20,7 @@ listend and repeat
 - R /ɑ(r)/
 - S /es/
 - T /ti/
-- U /ju/
+- U [iu]  /ju/
 - V /vi/
 - W /ˈdʌb(ə)l ju/
 - Y  /waɪ/
@@ -31,3 +31,5 @@ listend and repeat
 Name: J-U-A-N D-I-E-G-O // /dʒeɪ/juːeɪ/ɛn//diː//aɪ//iː//dʒiː//oʊ/
 
 Last Name: S-A-S-T-R-E-M-O-R-E-N-O // /ɛs//eɪ//ɛs//tiː//ɑr//aɪ//ɛm//oʊ//ɑr//iː//ɛn//oʊ/
+
+My name is Lucy .L-U-C-Y /el/ju/si//waɪ/

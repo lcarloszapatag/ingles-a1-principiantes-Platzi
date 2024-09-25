@@ -19,7 +19,11 @@ Aprende con la proferosa [Gina Pedraza](https://platzi.com/profes/gina-pedraza/)
 12. Projecto del Curso:Preséntate en Inglés
 ## course project
 
-A short video with the following questions
+A short video or audio with the following questions:
+- What's your Name?
+- How old are you ?
+-  What's your favorite food?
+-  What's your favorite animal?
 
 ![tenemos que realizar un video respondiendo las siguientes preguntas. muestra tus habilidades en un video con estas preguntas](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/docs%20/images/projectquestions.png?raw=true)
 

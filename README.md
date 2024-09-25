@@ -16,3 +16,6 @@ Aprende expresiones habituales en inglés y practica frases simples para present
 
 A short video with the following questions
 
+![tenemos que realizar un video respondiendo las siguientes preguntas. muestra tus habilidades en un video con estas preguntas](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/docs%20/images/projectquestions.png?raw=true)
+
+

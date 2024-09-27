@@ -12,7 +12,7 @@ Aprende con la profesora [Gina Pedraza](https://platzi.com/profes/gina-pedraza/)
 5. Ocupaciones en Inglés: What's your job?
 6. Los días de la semana en Inglés: [Days of the Week](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/los-dias-de-la-semana-en-ingles.md)
 7. Usa "is" o "are" en descripciones
-8. Tu presentación personal en Inglés
+8. Tu presentación personal en Inglés:(Your personal presentation in English)[https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/Tu-presentacion-personal-en-ingles.md]
 9. Describe personas usando "his", "her", "their"
 10. [Usa "who" en preguntas y respuestas](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/usa-who-en-preguntas-y-respuestas.md)
 11. Realiza descripciones usando "there is" y "there are

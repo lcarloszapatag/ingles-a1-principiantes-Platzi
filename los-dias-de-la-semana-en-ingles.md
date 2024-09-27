@@ -5,7 +5,7 @@
 
 ## Is pronounced like
  - Monday:muhn day
- -Tuesday:chooz.day
- Wednesday : wenz day
+ - Tuesday:chooz.day
+ - Wednesday : wenz day
 
  ## My agenda 

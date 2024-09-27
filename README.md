@@ -14,7 +14,7 @@ Aprende con la profesora [Gina Pedraza](https://platzi.com/profes/gina-pedraza/)
 7. Usa "is" o "are" en descripciones
 8. Tu presentación personal en Inglés:[Your personal presentation in English](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/Tu-presentacion-personal-en-ingles.md)
 9. Describe personas usando "his", "her", "their"
-10. [Usa "who" en preguntas y respuestas](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/usa-who-en-preguntas-y-respuestas.md)
+10. [Usa "who" en preguntas y respuestas](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/wiki/10%E2%80%90usa%E2%80%90who%E2%80%90en%E2%80%90preguntas%E2%80%90y%E2%80%90respuestas)
 11. Realiza descripciones usando "there is" y "there are
 12. Proyecto del Curso: [Preséntate en Inglés](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/presentarte-ingles.md)
 ## Course Project

@@ -17,3 +17,12 @@
 
 ## An o a?
  Remember the alphabet?
+ We have vowels and consonants
+
+## Lets practice Pronunciations of the five Consonants
+
+1. A /ei/
+2. E /i/
+3. I /ai/
+4. O / /oʊ/
+5. U /ju/

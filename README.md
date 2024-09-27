@@ -17,7 +17,7 @@ Aprende con la profesora [Gina Pedraza](https://platzi.com/profes/gina-pedraza/)
 10. [Usa "who" en preguntas y respuestas](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/usa-who-en-preguntas-y-respuestas.md)
 11. Realiza descripciones usando "there is" y "there are
 12. Proyecto del Curso: [Preséntate en Inglés](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/presentarte-ingles.md)
-## course project
+## Course Project
 
 A short video or audio with the following questions:
 - What's your Name?

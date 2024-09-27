@@ -6,7 +6,7 @@ Aprende con la profesora [Gina Pedraza](https://platzi.com/profes/gina-pedraza/)
 
 ## Notes
 1. Inglés Básico para Principiantes
-2. [Spelling" de tu nombre en Inglés](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/spelling-de-tu-nombre-en-ingles.md) 
+2. [Spelling" de tu nombre en Inglés](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/wiki/2-%22Spelling%22-de-tu-nombre-en-Ingl%C3%A9s) 
 3. [Numeros en ingles](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/Los-n%C3%BAmeros-en-ingles.md)
 4. Pregunta y responde la edad en Inglés: [How old are you?](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/pregunta-y-responde-la-edad-en-ingles-how-old-are.md)
 5. [Ocupaciones en Inglés: What's your job?](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/5-ocupaciones-en-ingles.md)

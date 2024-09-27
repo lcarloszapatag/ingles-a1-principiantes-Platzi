@@ -9,7 +9,7 @@ Aprende con la profesora [Gina Pedraza](https://platzi.com/profes/gina-pedraza/)
 2. [Spelling" de tu nombre en Inglés](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/wiki/2-%22Spelling%22-de-tu-nombre-en-Ingl%C3%A9s) 
 3. [Numeros en ingles](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/wiki/3.-Numeros-en-ingles)
 4. Pregunta y responde la edad en Inglés: [How old are you?](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/wiki/4%E2%80%90pregunta%E2%80%90y%E2%80%90responde%E2%80%90la%E2%80%90edad%E2%80%90en%E2%80%90ingles%E2%80%90how%E2%80%90old%E2%80%90are)
-5. [Ocupaciones en Inglés: What's your job?](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/5-ocupaciones-en-ingles.md)
+5. [Ocupaciones en Inglés: What's your job?](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/wiki/5%E2%80%90ocupaciones%E2%80%90en%E2%80%90ingles)
 6. Los días de la semana en Inglés: [Days of the Week](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/los-dias-de-la-semana-en-ingles.md)
 7. Usa "is" o "are" en descripciones
 8. Tu presentación personal en Inglés:[Your personal presentation in English](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/blob/main/Tu-presentacion-personal-en-ingles.md)

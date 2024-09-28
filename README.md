@@ -5,7 +5,7 @@
 Aprende con la profesora [Gina Pedraza](https://platzi.com/profes/gina-pedraza/) expresiones habituales en inglés y practica frases simples para presentarte y responder "What's your name?" al decir tu nombre y "How old are you?" para indicar tu edad. Usar el alfabeto en inglés para deletrear palabras, identifica números básicos y adquiere vocabulario sobre los días de la semana y objetos cotidianos.
 
 ## Notes
-1. Inglés Básico para Principiantes
+1. [Inglés Básico para Principiantes](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/wiki/1.ingles%E2%80%90basico%E2%80%90para%E2%80%90principiantes)
 2. [Spelling" de tu nombre en Inglés](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/wiki/2-%22Spelling%22-de-tu-nombre-en-Ingl%C3%A9s) 
 3. [Numeros en ingles](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/wiki/3.-Numeros-en-ingles)
 4. Pregunta y responde la edad en Inglés: [How old are you?](https://github.com/lcarloszapatag/ingles-a1-principiantes-Platzi/wiki/4%E2%80%90pregunta%E2%80%90y%E2%80%90responde%E2%80%90la%E2%80%90edad%E2%80%90en%E2%80%90ingles%E2%80%90how%E2%80%90old%E2%80%90are)
